@@ -66,7 +66,7 @@ export default function Home() {
             <Head>
                 <title>Ozin.cc</title>
                 <meta name="description" content="Ozin's personal site" />
-                <meta property="og:image" content="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/lbo1x6wn.png" />
+                <meta property="og:image" content="https://media.discordapp.net/attachments/803973344340475946/1115239220135596102/D04BCC47-1014-4FCD-8BA1-C573BCD26168.jpg?width=679&height=905" />
                 <meta property='theme-color' content='#17171a' />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
