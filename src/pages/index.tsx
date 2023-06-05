@@ -53,7 +53,7 @@ export default function Home() {
       <Head>
         <title>Ozin.cc</title>
         <meta name="description" content="Ozin's personal site" />
-        <meta property="og:image" content="https://images.app.goo.gl/UF9u6KV5BFeeChwm9" />
+        <meta property="og:image" content="https://cdn.discordapp.com/attachments/803973344340475946/1115239220135596102/D04BCC 47-1014-4FCD-8BA1-C573BCD26168.jpg" />
         <meta property='theme-color' content='#17171a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -61,7 +61,7 @@ export default function Home() {
       <header className='relative'>
         <nav className={`${pageLoad ? 'animate-fade-in-top' : 'opacity-0'} fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center`}>
           <Link href='/'>
-            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://images.app.goo.gl/UF9u6KV5BFeeChwm9" />
+            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://cdn.discordapp.com/attachments/803973344340475946/1115239220135596102/D04BCC47-1014-4FCD-8BA1-C573BCD26168.jpg" />
           </Link>
           <ul className='flex flex-row gap-x-2'>
             <li>
