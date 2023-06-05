@@ -53,7 +53,7 @@ export default function Home() {
       <Head>
         <title>Ozin.cc</title>
         <meta name="description" content="Ozin's personal site" />
-        <meta property="og:image" content="https://i.pinimg.com/564x/ba/75/55/ba7555f3e773aff3d3f239658c6c92c1.jpg" />
+        <meta property="og:image" content="https://images.app.goo.gl/UF9u6KV5BFeeChwm9" />
         <meta property='theme-color' content='#17171a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
