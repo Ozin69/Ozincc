@@ -228,7 +228,7 @@ export default function Home() {
               delay={0.2}
             />
             <Projectcard
-              src='https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/hvc9a4np.png'
+              src='https://media.discordapp.net/attachments/1019295425938858016/1121939516857528431/image.png?width=1325&height=905'
               title='Ozin.cc (This website)'
               description='Ozin.cc is my personal website/portfolio. This is where I showcase my projects and skills.'
               href='https://github.com/Ozin69'
