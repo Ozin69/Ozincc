@@ -200,10 +200,10 @@ export default function Home() {
               delay={0.1}
             />
             <Projectcard
-              src='https://www.dictionary.com/e/wp-content/uploads/2020/01/Zip_Zero_Zilch_1000x700_jpg_2ZuoCxRf.jpg'
-              title='Nothing'
-              description='...'
-              href=''
+              src='https://media.discordapp.net/attachments/1019295425938858016/1121939244324229222/image.png?width=1224&height=905'
+              title='Weather App'
+              description='A simple weather app that displays the temperature and conditions in the searched area!'
+              href='https://weatherhub-its7.vercel.app/'
               delay={0.2}
             />
             <Projectcard
