@@ -193,10 +193,10 @@ export default function Home() {
           </div>
           <ul className='grid lg:grid-cols-3 grid-cols-1 max-w-5xl w-full mx-auto gap-4 pt-8 pb-16 lg:px-0 md:px-32 px-8'>
             <Projectcard
-              src='https://www.dictionary.com/e/wp-content/uploads/2020/01/Zip_Zero_Zilch_1000x700_jpg_2ZuoCxRf.jpg'
-              title='Nothing'
-              description='...'
-              href=''
+              src='https://media.discordapp.net/attachments/1019295425938858016/1121930888603771032/image.png'
+              title='To-Do'
+              description='A simple to do website created in javascript, html and css!'
+              href='https://to-do-pearl-ten.vercel.app/'
               delay={0.1}
             />
             <Projectcard
