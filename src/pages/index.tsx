@@ -51,7 +51,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ozin.cc</title>
+        <title>Ozin.tech</title>
         <meta name="description" content="Ozin's personal site" />
         <meta property="og:image" content="https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256" />
         <meta property='theme-color' content='#17171a' />
@@ -164,7 +164,7 @@ export default function Home() {
               <Techicon href='https://discord.js.org/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg' delay={0.8} rounded={true} />
               <Techicon href='https://www.mongodb.com/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' delay={0.9} />
               <Techicon href='https://fastify.io/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/g9j04tdrsj5wwzw76d.png' delay={1.0} />
-              <Techicon href='https://tailwindcss.com/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' delay={1.1} />
+              <Techicon href='https://tailwindcss.com/' src='https://cdn.discordapp.com/attachments/1203300955706363904/1211433696809193532/320px-Tailwind_CSS_Logo.png?ex=65ee2e8c&is=65dbb98c&hm=e6d6ca386c0116887548c3aeb34b723a770977d290e03c230136f7a107d7bc85&' delay={1.1} />
               <Techicon href='https://www.framer.com/motion/' src='https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/5q2uj9zv.png' delay={1.2} />
             </ul>
             <h2 className={`text-white font-semibold sm:text-2xl text-lg font-kanit text-right pt-24 xl:px-0 px-8`}>
@@ -193,24 +193,24 @@ export default function Home() {
           </div>
           <ul className='grid lg:grid-cols-3 grid-cols-1 max-w-5xl w-full mx-auto gap-4 pt-8 pb-16 lg:px-0 md:px-32 px-8'>
             <Projectcard
-              src='https://media.discordapp.net/attachments/1019295425938858016/1121930888603771032/image.png'
+              src='https://media.discordapp.net/attachments/1203300955706363904/1211433937180827700/image.png?ex=65ee2ec5&is=65dbb9c5&hm=cdc42780f35d2a99bd01af47881f820d470860474383302fbf5ed798c0372e39&=&format=webp&quality=lossless'
               title='To-Do'
               description='A simple to do website created in javascript, html and css!'
               href='https://to-do-pearl-ten.vercel.app/'
               delay={0.1}
             />
             <Projectcard
-              src='https://media.discordapp.net/attachments/1019295425938858016/1121939244324229222/image.png?width=1224&height=905'
+              src='https://media.discordapp.net/attachments/1203300955706363904/1211434086497787934/image.png?ex=65ee2ee9&is=65dbb9e9&hm=7faddd1b3717a09396abe3f0a594b5afe958e64bfb88c4a7f1d70f66fb9b33f9&=&format=webp&quality=lossless&width=1920&height=856'
               title='Weather App'
               description='A simple weather app that displays the temperature and conditions in the searched area!'
               href='https://weatherhub-its7.vercel.app/'
               delay={0.2}
             />
             <Projectcard
-              src='https://www.dictionary.com/e/wp-content/uploads/2020/01/Zip_Zero_Zilch_1000x700_jpg_2ZuoCxRf.jpg'
-              title='Nothing'
-              description='...'
-              href=''
+              src='https://media.discordapp.net/attachments/1203300955706363904/1211434460927623209/image.png?ex=65ee2f42&is=65dbba42&hm=2fdd60c0eaf9b1d5c87901414b9e638bf468509744fb454c4d9cf25da57b095a&=&format=webp&quality=lossless&width=1431&height=936'
+              title='Ozin.tech (This website)'
+              description='Ozin.tech is my personal website/portfolio. This is where I showcase my projects and skills.'
+              href='https://github.com/Ozin69'
               delay={0.3}
             />
             <Projectcard
@@ -228,10 +228,10 @@ export default function Home() {
               delay={0.2}
             />
             <Projectcard
-              src='https://media.discordapp.net/attachments/1019295425938858016/1121939516857528431/image.png?width=1325&height=905'
-              title='Ozin.cc (This website)'
-              description='Ozin.cc is my personal website/portfolio. This is where I showcase my projects and skills.'
-              href='https://github.com/Ozin69'
+              src='https://www.dictionary.com/e/wp-content/uploads/2020/01/Zip_Zero_Zilch_1000x700_jpg_2ZuoCxRf.jpg'
+              title='Nothing'
+              description='...'
+              href=''
               delay={0.3}
             />
             <Projectcard
