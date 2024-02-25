@@ -53,7 +53,7 @@ export default function Home() {
       <Head>
         <title>Ozin.cc</title>
         <meta name="description" content="Ozin's personal site" />
-        <meta property="og:image" content="https://cdn.discordapp.com/attachments/803973344340475946/1115239220135596102/D04BCC47-1014-4FCD-8BA1-C573BCD26168.jpg" />
+        <meta property="og:image" content="https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256" />
         <meta property='theme-color' content='#17171a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -61,7 +61,7 @@ export default function Home() {
       <header className='relative'>
         <nav className={`${pageLoad ? 'animate-fade-in-top' : 'opacity-0'} fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center`}>
           <Link href='/'>
-            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://cdn.discordapp.com/attachments/803973344340475946/1115239220135596102/D04BCC47-1014-4FCD-8BA1-C573BCD26168.jpg" />
+            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256" />
           </Link>
           <ul className='flex flex-row gap-x-2'>
             <li>
