@@ -200,7 +200,7 @@ export default function Home() {
               delay={0.1}
             />
             <Projectcard
-              src='https://media.discordapp.net/attachments/1203300955706363904/1211434086497787934/image.png?ex=65ee2ee9&is=65dbb9e9&hm=7faddd1b3717a09396abe3f0a594b5afe958e64bfb88c4a7f1d70f66fb9b33f9&=&format=webp&quality=lossless&width=1920&height=856'
+              src='https://media.discordapp.net/attachments/1203300955706363904/1211775234118516786/image.png?ex=65ef6ca1&is=65dcf7a1&hm=9271af142a6f6ed4325e3651e54161cb51d9543c55b1cd14904c3b307db87895&=&format=webp&quality=lossless&width=1695&height=936'
               title='Weather App'
               description='A simple weather app that displays the temperature and conditions in the searched area!'
               href='https://weatherhub-its7.vercel.app/'
