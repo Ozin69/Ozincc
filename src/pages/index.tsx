@@ -126,7 +126,7 @@ export default function Home() {
                 />
               </ul>
             </div>
-            <img draggable={false} className={`relative rounded-full lg:w-72 w-0 border-2 border-blue-700 h-fit xl:-translate-y-14 lg:translate-y-6 mr-8 -translate-y-0 lg:scale-100 scale-0 ${imageLoad ? 'animate-fadeIn' : 'opacity-0'}`} alt="image" src='https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256' />
+            <img draggable={false} className={`relative rounded-full lg:w-72 w-0 border-2 border-blue-700 h-fit xl:-translate-y-14 lg:translate-y-6 mr-8 -translate-y-0 lg:scale-100 scale-0 ${imageLoad ? 'animate-fadeIn' : 'opacity-0'}`} alt="image" src='https://media.discordapp.net/attachments/1203300955706363904/1211768561886957629/image.png?ex=65ef666a&is=65dcf16a&hm=f9782ffc1720c9fd608bf3aaac8d47ff448e03fdccb32f2562cc4619b30a6eb3&=&format=webp&quality=lossless' />
           </div>
         </section>
         <svg id="about" className={`${pageLoad ? 'animate-fade-in-bottom' : 'opacity-0'}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#020617" fill-opacity="1" d="M0,160L48,133.3C96,107,192,53,288,48C384,43,480,85,576,96C672,107,768,85,864,74.7C960,64,1056,64,1152,80C1248,96,1344,128,1392,144L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
