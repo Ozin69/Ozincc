@@ -163,21 +163,21 @@ export default function Home() {
               <Techicon href='https://reactjs.org/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' delay={0.7} />
               <Techicon href='https://discord.js.org/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg' delay={0.8} rounded={true} />
               <Techicon href='https://www.mongodb.com/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' delay={0.9} />
-              <Techicon href='https://fastify.io/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/g9j04tdrsj5wwzw76d.png' delay={1.0} />
+              <Techicon href='https://fastify.io/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774069343657994/g9j04tdrsj5wwzw76d.png?ex=65ef6b8b&is=65dcf68b&hm=4ef15573af98911bf40dadfb10811274a284273f2c993fda966966889c774606&=&format=webp&quality=lossless' delay={1.0} />
               <Techicon href='https://tailwindcss.com/' src='https://media.discordapp.net/attachments/1203300955706363904/1211433696809193532/320px-Tailwind_CSS_Logo.png?ex=65ee2e8c&is=65dbb98c&hm=e6d6ca386c0116887548c3aeb34b723a770977d290e03c230136f7a107d7bc85&=&format=webp&quality=lossless' delay={1.1} />
-              <Techicon href='https://www.framer.com/motion/' src='https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/5q2uj9zv.png' delay={1.2} />
+              <Techicon href='https://www.framer.com/motion/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774181746942012/5q2uj9zv.png?ex=65ef6ba6&is=65dcf6a6&hm=32b1ac7bb2375d931f1ead4754c5362b168e0e6f5edf3ed5c8d071ee3228d2ff&=&format=webp&quality=lossless' delay={1.2} />
             </ul>
             <h2 className={`text-white font-semibold sm:text-2xl text-lg font-kanit text-right pt-24 xl:px-0 px-8`}>
               Here are some of the tools and services I use during and after development.
             </h2>
             <ul className='flex flex-row flex-wrap gap-2 mt-2 self-end rounded-md w-fit xl:px-0 px-8'>
               <Techicon href='https://code.visualstudio.com/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' delay={0.1} />
-              <Techicon href='https://insomnia.rest/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/qr3zqlfckx6hkdj0nl.png' delay={0.2} />
+              <Techicon href='https://insomnia.rest/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774445409275954/qr3zqlfckx6hkdj0nl.png?ex=65ef6be5&is=65dcf6e5&hm=5dd7e4dde71d2bc46ac5881e43a5439e849df930a6194c0ead5852514dc558e7&=&format=webp&quality=lossless&width=350&height=350' delay={0.2} />
               <Techicon href='https://www.putty.org/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg' delay={0.3} />
-              <Techicon href='https://winscp.net/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/8qx6q91yedkiub4285.png' delay={0.4} />
-              <Techicon href='https://www.hetzner.com/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/q4dzhs1beprvugs13m.png' delay={0.5} />
-              <Techicon href='https://porkbun.com/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/z3xmhz3k1rc24l433c.png' delay={0.6} />
-              <Techicon href='https://www.cloudflare.com/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/me2uv8xk95n010sdwz.png' delay={0.7} />
+              <Techicon href='https://winscp.net/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774481039753317/8qx6q91yedkiub4285.png?ex=65ef6bed&is=65dcf6ed&hm=71dd7a191b38599c5854ce805c132edc4006f3ac1073f340cc87dbb5f1ea4bf8&=&format=webp&quality=lossless' delay={0.4} />
+              <Techicon href='https://www.hetzner.com/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774597868032030/q4dzhs1beprvugs13m.png?ex=65ef6c09&is=65dcf709&hm=1fc41293e8e23fa903ebaa432c667899a21f4a0cd40a8bb605e6e47dacaeab7a&=&format=webp&quality=lossless' delay={0.5} />
+              <Techicon href='https://porkbun.com/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774677614338099/z3xmhz3k1rc24l433c.png?ex=65ef6c1c&is=65dcf71c&hm=70ea162b940a2a0e15a3dcb1e22fdce52e8ce723561beb436a0c8b4172f5df7b&=&format=webp&quality=lossless&width=936&height=936' delay={0.6} />
+              <Techicon href='https://www.cloudflare.com/' src='https://media.discordapp.net/attachments/1203300955706363904/1211774764750864434/me2uv8xk95n010sdwz.png?ex=65ef6c31&is=65dcf731&hm=a83f6125cd7ec5cca85d7b0e55b965fcd2597aaabe8c19765c73b3be45aa88a7&=&format=webp&quality=lossless' delay={0.7} />
             </ul>
           </div>
         </section>
