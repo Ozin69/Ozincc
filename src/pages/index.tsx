@@ -53,7 +53,7 @@ export default function Home() {
       <Head>
         <title>Ozin.tech</title>
         <meta name="description" content="Ozin's personal site" />
-        <meta property="og:image" content="https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256" />
+        <meta property="og:image" content="https://media.discordapp.net/attachments/1203300955706363904/1211768561886957629/image.png?ex=65ef666a&is=65dcf16a&hm=f9782ffc1720c9fd608bf3aaac8d47ff448e03fdccb32f2562cc4619b30a6eb3&=&format=webp&quality=lossless" />
         <meta property='theme-color' content='#17171a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -61,7 +61,7 @@ export default function Home() {
       <header className='relative'>
         <nav className={`${pageLoad ? 'animate-fade-in-top' : 'opacity-0'} fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center`}>
           <Link href='/'>
-            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://cdn.discordapp.com/avatars/1139250244379480094/bcaafc0bff7ad5a160e181262515c706.webp?size=1024&format=webp&width=0&height=256" />
+            <img draggable={false} className='h-12 w-12 rounded-full' alt="image" src="https://media.discordapp.net/attachments/1203300955706363904/1211768561886957629/image.png?ex=65ef666a&is=65dcf16a&hm=f9782ffc1720c9fd608bf3aaac8d47ff448e03fdccb32f2562cc4619b30a6eb3&=&format=webp&quality=lossless" />
           </Link>
           <ul className='flex flex-row gap-x-2'>
             <li>
@@ -164,7 +164,7 @@ export default function Home() {
               <Techicon href='https://discord.js.org/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg' delay={0.8} rounded={true} />
               <Techicon href='https://www.mongodb.com/' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' delay={0.9} />
               <Techicon href='https://fastify.io/' src='https://cdn.e-z.host/e-zimagehosting/2082d908-7c65-4fc3-b02a-5f50f9141543/g9j04tdrsj5wwzw76d.png' delay={1.0} />
-              <Techicon href='https://tailwindcss.com/' src='https://cdn.discordapp.com/attachments/1203300955706363904/1211433696809193532/320px-Tailwind_CSS_Logo.png?ex=65ee2e8c&is=65dbb98c&hm=e6d6ca386c0116887548c3aeb34b723a770977d290e03c230136f7a107d7bc85&' delay={1.1} />
+              <Techicon href='https://tailwindcss.com/' src='https://media.discordapp.net/attachments/1203300955706363904/1211433696809193532/320px-Tailwind_CSS_Logo.png?ex=65ee2e8c&is=65dbb98c&hm=e6d6ca386c0116887548c3aeb34b723a770977d290e03c230136f7a107d7bc85&=&format=webp&quality=lossless' delay={1.1} />
               <Techicon href='https://www.framer.com/motion/' src='https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/5q2uj9zv.png' delay={1.2} />
             </ul>
             <h2 className={`text-white font-semibold sm:text-2xl text-lg font-kanit text-right pt-24 xl:px-0 px-8`}>
